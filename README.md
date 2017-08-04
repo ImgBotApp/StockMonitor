@@ -1,2 +1,2 @@
 # StockMonitor
-Forcast, Decision, Welfare
+Forecast, Decision, Welfare
